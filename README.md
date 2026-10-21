@@ -6,7 +6,7 @@ Analyzing Mumbai's vital health statistics (2015–2020) using Power BI and Pyth
 
 
 
-\## Project Overview
+Project Overview
 
 This repository contains the complete first-semester project for my M.Sc. in Data Science program. The project investigates Mumbai's vital public health statistics from 2015 to 2020, utilizing official data records from the Municipal Corporation of Greater Mumbai (MCGM). 
 
@@ -18,7 +18,7 @@ The analysis evaluates long-term urban demographic shifts, natality contractions
 
 
 
-\## Repository Structure
+Repository Structure
 
 ```text
 
